@@ -15,19 +15,16 @@ A little variation of the knob settings may result in dramatic timbral alteratio
  
  
  
-**Controls**
-
+**Controls**  
 - Oscillator 1 Frequency  
 - Oscillator 2 Frequency  
 - Oscillator 3 Frequency  
 
-**Connections**
-
+**Connections**  
 - CV or GATE input  
 - Audio output  
 
-**Specs**
-
+**Specs**  
 - +12v = 5ma  
 - -12v = 0ma  
 - +5v =  0ma
