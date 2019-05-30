@@ -6,6 +6,8 @@ http://kinetiklaboratories.blogspot.com/p/drjekyll.html
 
 ![bpd](Images/bpd.png)
 
+Despite the apparent simplicity, this module deliver a wide sound palette.
+Tuning the three cross-modulated oscillators allows timbral metamorphosis, with complex variations in tone and granularity.
 
 
 **Controls**
