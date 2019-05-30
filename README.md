@@ -24,14 +24,14 @@ http://kinetiklaboratories.blogspot.com/p/drjekyll.html
 
 **Specs**
 
-+12v = 5ma
+- +12v = 5ma
 
--12v = 0ma
+- -12v = 0ma
 
-+5v =  0ma
+- +5v =  0ma
 
-width = 8HP
+- width = 8HP
 
-depth = 27mm (skiff friendly)
+- depth = 27mm (skiff friendly)
 
 
