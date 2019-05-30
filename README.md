@@ -8,6 +8,20 @@ http://kinetiklaboratories.blogspot.com/p/drjekyll.html
 
 
 
+**Controls**
+
+- Oscillator 1 Frequency
+
+- Oscillator 2 Frequency
+
+- Oscillator 3 Frequency
+
+**Connections**
+
+- CV or GATE input
+
+- Audio output
+
 **Specs**
 
 +12v = 5ma
