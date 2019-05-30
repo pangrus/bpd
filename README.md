@@ -1,22 +1,20 @@
 # bpd - borderline personality disease
 
-An eurorack module based on Dr.Jekyll&Mr.Hyde by Kinetik Laboratories.
-
+An eurorack module based on Dr.Jekyll&Mr.Hyde by Kinetik Laboratories.    
 http://kinetiklaboratories.blogspot.com/p/drjekyll.html
-
+  
+  
 ![bpd](Images/bpd.png)
-
-Despite the apparent simplicity, this module deliver a wide sound palette.
-
-By tuning the three cross-modulated oscillators timbral metamorphosis with complex variations in tone and granularity can be achieved.
-
-Although sound repeatability can be achieved, the circuit nature encourages the user toward an aleatoric sound design process.
-
+  
+  
+Despite the apparent simplicity, this module deliver a wide sound palette.  
+By tuning the three cross-modulated oscillators timbral metamorphosis with complex variations in tone and granularity can be achieved.  
+Although sound repeatability can be achieved, the circuit nature encourages the user toward an aleatoric sound design process.  
 A little variation of the knob settings may result in dramatic timbral alterations, hence the name.   
-
-
-
-
+ 
+ 
+ 
+ 
 **Controls**
 
 - Oscillator 1 Frequency
