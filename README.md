@@ -8,6 +8,8 @@ http://kinetiklaboratories.blogspot.com/p/drjekyll.html
 
 Despite the apparent simplicity, this module deliver a wide sound palette.
 Tuning the three cross-modulated oscillators allows timbral metamorphosis, with complex variations in tone and granularity.
+Although sound repeatability can be achieved, the circuit nature encourages the user toward an aleatoric sound design process.
+A little variation of the knob settings may result in dramatic timbral alterations, hence the name.   
 
 
 **Controls**
