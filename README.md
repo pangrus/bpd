@@ -1,4 +1,4 @@
-# bpd - borderline personality disease
+# bpd - borderline personality disorder
 
 An eurorack module based on Dr.Jekyll&Mr.Hyde by Kinetik Laboratories.    
 http://kinetiklaboratories.blogspot.com/p/drjekyll.html
