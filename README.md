@@ -1,6 +1,6 @@
 # bpd - borderline personality disorder
 
-**bpd** is a three ocillators voice for eurorack systems.  
+**bpd** is a three oscillators voice for eurorack systems.  
   
 ![bpd](Images/bpd.png)
   
