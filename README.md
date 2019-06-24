@@ -10,7 +10,7 @@ http://kinetiklaboratories.blogspot.com/p/drjekyll.html
 Despite the apparent simplicity, this module deliver a wide sound palette.  
 Although sound repeatability can be achieved, the circuit nature encourages the user toward an aleatoric sound design process. By tuning the three cross-modulated oscillators timbral metamorphosis with complex variations in tone and granularity can be accomplished.  
 A little variation of the knob settings may result in dramatic timbral alterations, hence the name.   
- 
+A CV/GATE input is available to affect timbre, pitch and output volume. 
  
  
  
