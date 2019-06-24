@@ -1,8 +1,6 @@
 # bpd - borderline personality disorder
 
-An eurorack module based on Dr.Jekyll&Mr.Hyde by Kinetik Laboratories.    
-http://kinetiklaboratories.blogspot.com/p/drjekyll.html
-  
+**bpd** is a three ocillators voice for eurorack systems.  
   
 ![bpd](Images/bpd.png)
   
